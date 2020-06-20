@@ -73,6 +73,21 @@ html {
   background-color: rgba(0, 0, 0, 0.5);
 }
 
+.s1,
+.s2 {
+  padding-top: 5rem;
+  height: 100vh;
+  color: #c3c3c3;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 3rem;
+  letter-spacing: 2px;
+}
+
+.s2 {
+  background-color: #2d6a4f;
+}
+
 @media screen and (min-width: 800px) {
   .cta h1 {
     font-size: 12rem;
